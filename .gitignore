@@ -1,15 +1,15 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-Frontend\my-react-app/node_modules
-Frontend\my-react-app/.pnp
+Frontend/my-react-app/node_modules
+Frontend/my-react-app/.pnp
 .pnp.js
 
 # testing
-Frontend\my-react-app
+Frontend/my-react-app
 
 # production
-Frontend\my-react-app/build
+Frontend/my-react-app/build
 
 # misc
 .DS_Store
