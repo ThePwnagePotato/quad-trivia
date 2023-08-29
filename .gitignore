@@ -6,7 +6,7 @@ Frontend/my-react-app/.pnp
 .pnp.js
 
 # testing
-Frontend/my-react-app
+Frontend/my-react-app/coverage
 
 # production
 Frontend/my-react-app/build
