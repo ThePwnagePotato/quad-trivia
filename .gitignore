@@ -1,15 +1,15 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
-/.pnp
+Frontend/node_modules
+Frontend/.pnp
 .pnp.js
 
 # testing
-/coverage
+Frontend/coverage
 
 # production
-/build
+Frontend/build
 
 # misc
 .DS_Store
@@ -51,11 +51,11 @@ out/
 !**/src/test/**/out/
 
 ### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
+Trivia/nbproject/private/
+Trivia/nbbuild/
+Trivia/dist/
+Trivia/nbdist/
+Trivia/.nb-gradle/
 
 ### VS Code ###
 .vscode/
